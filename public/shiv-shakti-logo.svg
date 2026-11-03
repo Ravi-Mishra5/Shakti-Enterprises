@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Shiv Shakti water drop mark</title>
+  <defs><linearGradient id="water" x1="39" y1="23" x2="86" y2="91" gradientUnits="userSpaceOnUse"><stop stop-color="#51c7ee"/><stop offset="1" stop-color="#0879c1"/></linearGradient></defs>
+  <circle cx="64" cy="64" r="58" fill="#fff"/>
+  <path d="M64 6a58 58 0 0 0 0 116" fill="none" stroke="#f47700" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64 6a58 58 0 0 1 0 116" fill="none" stroke="#102b52" stroke-width="5" stroke-linecap="round"/>
+  <path d="M61 22C51 38 37 51 37 66a27 27 0 0 0 54 0c0-15-17-33-26-44Z" fill="url(#water)"/>
+  <circle cx="91" cy="34" r="4" fill="#40b9e3"/><circle cx="99" cy="45" r="3" fill="#40b9e3"/>
+  <path d="M40 67c9 10 18 10 28 0 9-9 19-9 27 0-4 14-16 23-31 23-12 0-22-6-27-16Z" fill="#102b52"/>
+  <path d="M43 82c11 5 20 3 29-4 8-6 16-6 23 0-6 9-17 15-30 15-9 0-17-3-22-9Z" fill="#167fc2"/>
+</svg>
